@@ -1,0 +1,15 @@
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.exe
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.deps.json
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.runtimeconfig.json
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.dll
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.pdb
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.AssemblyInfo.cs
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.sourcelink.json
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.dll
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\refint\ShoppingSystem.dll
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.pdb
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.genruntimeconfig.cache
+C:\Users\fatma\Desktop\C#\Projects\ShoppingSystem\obj\Debug\net8.0\ref\ShoppingSystem.dll
